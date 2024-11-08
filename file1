@@ -1,0 +1,4 @@
+git clone https://git.codecrafters.io/6e481389c401486a codecrafters-redis-java
+cd codecrafters-redis-java
+git commit --allow-empty -m 'test'
+git push origin master
